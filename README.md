@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Kim Hauser
+# 👋 Hi, I'm Kim David Hauser
 
 ### Swiss-Certified Software Engineer · IT Project Manager · Software Security Specialist
 
-I started exploring software engineering in **1991, when I was nine years old**. More than 30 years later, I’m still driven by the same curiosity: understanding how things work and building software that solves real problems.
+I started exploring software engineering in **1991, when I was nine years old**. More than 34 years later, I’m still driven by the same curiosity: understanding how things work and building software solutions that solves real problems.
 
 Based in **Zurich, Switzerland**, I create practical, high-quality software tailored to each project’s needs, platform, budget, and timeline.
 
